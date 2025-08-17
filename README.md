@@ -1,2 +1,1 @@
-# Bigmart_Datascience
-Bigmart_Datascience
+# BigMart_Sales_Prediction
